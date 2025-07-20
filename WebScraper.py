@@ -46,9 +46,9 @@ from email.message import EmailMessage
 import os
 
 # Email config
-sender_email = "krishgoyal3101@gmail.com"
-receiver_email = "gamepyton@gmail.com"
-password = "evhtlseoangevjqc"
+sender_email = "sender email"
+receiver_email = "receiver email"
+password = "enter your password"
 
 # File to attach
 attachment_path = filename  # from previous part
